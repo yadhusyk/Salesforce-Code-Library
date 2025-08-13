@@ -1,0 +1,12 @@
+# Salesforce DX
+.sfdx/
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Mac
+.DS_Store
