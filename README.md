@@ -9,17 +9,17 @@ Whether you're looking for a simple SOQL query, a complex LWC pattern, or an ele
 This repository is organized by technology. Each folder contains a specific solution, along with its own `README.md` explaining the code, its use case, and any dependencies.
 
 * **Apex:**
-    * Advanced trigger frameworks, integration patterns, and best practices.
+    
 * **LWC (Lightning Web Components):**
-    * Reusable UI components, data service patterns, and communication examples.
+    
 * **Visualforce:**
-    * Custom controllers, component examples, and integrations with JavaScript.
+   
 * **SOQL & SOSL:**
-    * Complex queries, dynamic search examples, and best practices for data retrieval.
+    
 * **Aura Components:**
-    * Examples of controller-helper-renderer patterns and inter-component communication.
+   
 * **Other:**
-    * Includes a variety of miscellaneous code and configurations, such as Salesforce CLI scripts, Flow configurations, and more.
+    * Includes a variety of miscellaneous code and configurations, such as Salesforce CLI scripts, Flow configurations, and more...
 
 ## How to Use This Repository
 
