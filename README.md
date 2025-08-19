@@ -8,15 +8,15 @@ Whether you're looking for a simple SOQL query, a complex LWC pattern, or an ele
 
 This repository is organized by technology. Each folder contains a specific solution, along with its own `README.md` explaining the code, its use case, and any dependencies.
 
-* **Apex:**
+* **Apex**
     
-* **LWC (Lightning Web Components):**
+* **LWC (Lightning Web Components)**
     
-* **Visualforce:**
+* **Visualforce**
    
-* **SOQL & SOSL:**
+* **SOQL & SOSL**
     
-* **Aura Components:**
+* **Aura Components**
    
 * **Other:**
     * Includes a variety of miscellaneous code and configurations, such as Salesforce CLI scripts, Flow configurations, and more...
