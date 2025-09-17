@@ -1,0 +1,16 @@
+<template>
+    <lightning-card class="slds-p-horizontal_medium slds-p-vertical_medium" title="Opportunity Insights" icon-name="standard:opportunity">
+                <lightning-input class="slds-p-horizontal_medium slds-p-vertical_medium" type="number" name="input1" label="Enter first number"  onchange={handleFirstValue}></lightning-input>
+                <lightning-input class="slds-p-horizontal_medium slds-p-vertical_medium" type="number" name="input1" label="Enter second number"  onchange={handleSecondValue}></lightning-input>
+                <lightning-button
+                label="Get the Sum"
+                onclick={handleClick}
+                class="slds-p-horizontal_medium slds-p-vertical_medium"
+                variant="brand">
+            </lightning-button> 
+
+            <div class="slds-box slds-m-around_x-small">
+                <p> The result is {finalValue}</p>
+            </div>
+    </lightning-card>
+</template>
