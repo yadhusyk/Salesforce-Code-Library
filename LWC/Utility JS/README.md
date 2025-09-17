@@ -10,7 +10,7 @@ By centralizing reusable logic into a shared `commonUtils.js`, you can avoid cod
 
 ---
 
-## ⚡ Utility Module (`commonUtils.js`)
+## Utility Module (`commonUtils.js`)
 
 ```javascript
 export function formatDate(dateString) {
